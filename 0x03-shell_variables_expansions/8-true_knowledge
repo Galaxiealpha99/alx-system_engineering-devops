@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=1209 && expr 2 + ${TRUEKNOWLEDGE}
+expr 2 + ${TRUEKNOWLEDGE}
